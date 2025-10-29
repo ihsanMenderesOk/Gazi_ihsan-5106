@@ -1,2 +1,2 @@
-# Gazi_ihsan-5106
+# Gazi.ihsan51
 Açık Kaynak Yazılım Geliştirme 
